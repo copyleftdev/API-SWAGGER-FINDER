@@ -2,4 +2,4 @@
 
 
 add the target domains to domains.txt do not put any  protocol prefix info (https|https|other*) , swagger.txt has route variation of common swagger paths. after the scan ,
-it match are found you will see agit push -u origin main found.txt file in the root of the directory
+it matches are found you will see a found file listing all found swaggers docs.
